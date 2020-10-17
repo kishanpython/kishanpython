@@ -1,4 +1,4 @@
-### Hi 👋 I am KISHAN YADAV
+### Hi 👋 I am Kishan Yadav.
 A data science enthusiast who loves to explore new technologies and leverage it to solve real-life problems.
 
 It's well said that: “Learning never exhausts the mind.” – Leonardo da Vinci
