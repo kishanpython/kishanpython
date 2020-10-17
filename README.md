@@ -6,9 +6,11 @@ A technology enthusiast who loves to explore new technologies and leverage it to
 
 
 **Languages and Tools:**
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"></code>
-
+<code><img height="20" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"></code>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kishanpython&show_icons=true)
 
