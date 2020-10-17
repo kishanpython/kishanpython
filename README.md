@@ -1,11 +1,8 @@
 ### Hi 👋 I am KISHAN YADAV
-#### Happy to see you here
-A technology enthusiast who loves to explore new technologies and leverage it to solve real-life problems.
-
-
-
+A data science enthusiast who loves to explore new technologies and leverage it to solve real-life problems.
 
 **Languages and Tools:**
+
 <code><img height="20" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"></code>
