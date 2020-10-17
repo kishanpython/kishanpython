@@ -1,8 +1,10 @@
 ### Hi 👋 I am KISHAN YADAV
 A data science enthusiast who loves to explore new technologies and leverage it to solve real-life problems.
+
 It's well said that: “Learning never exhausts the mind.” – Leonardo da Vinci
 
 [![Linkedin: kishanyadav](https://img.shields.io/badge/-kishanyadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishanyadav/)](https://www.linkedin.com/in/kishanyadav/)
+
 **Languages and Tools:**
 
 <code><img height="20" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"></code>
