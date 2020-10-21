@@ -1,10 +1,10 @@
-### Hi 👋 I am Kishan Yadav.
-I am Data Science and Machine-learning enthusiast who loves to explore new technologies and leverage it to solve real-life problems.
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Kishan Yadav 👨‍💻
+I am Data Science and Machine-Learning enthusiast who loves to explore new technologies and leverage it to solve real-life problems.
 
 #### 🔭 I’m currently looking for new opportunities .
 
 ```python
-class Kishanpython:
+class kishanpython:
 
     def __init__(self):
         self.username = 'kishanpython'
@@ -12,7 +12,6 @@ class Kishanpython:
         self.kaggle = '@kishanyadav'
         self.twitter = '@kishan_py'
         self.code = {
-    
             'datascience': ['ML','DL','NLP','Computer Vision'],
             'backend' : ['Python', 'Flask', 'Django'],
             'database': ['MySQL', 'SQLite3', 'Mongo DB'],
@@ -27,14 +26,14 @@ class Kishanpython:
 
 
 if __name__ == '__main__':
-    me = Kishanpython()
+    me = kishanpython()
 ```    
     
 
 ## 📫 Get in touch
 [![Linkedin: kishanyadav](https://img.shields.io/badge/-kishanyadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishanyadav/)](https://www.linkedin.com/in/kishanyadav/)
 
-or on [mail](mailto:kishanyadav3223@gmail.com) .
+or on ![mail](mailto:kishanyadav3223@gmail.com) .
 
 
 
