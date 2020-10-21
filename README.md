@@ -42,7 +42,7 @@ or <a href = "(mailto:kishanyadav3223@gmail.com)"><img align="left" alt="Kishan 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kishanpython/kishanpython)
 
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/"><img src="https://camo.githubusercontent.com/" alt="VisitorCount" data-canonical-src="https://profile-counter.glitch.me/kishanpython/count.svg" style="max-width:100%;"></a>
+
 
 
 <!--
