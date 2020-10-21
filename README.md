@@ -1,22 +1,46 @@
 ### Hi 👋 I am Kishan Yadav.
-A data science enthusiast who loves to explore new technologies and leverage it to solve real-life problems.
+I am Data Science and Machine-learning enthusiast who loves to explore new technologies and leverage it to solve real-life problems.
 
-<b>"The problem isn’t finding data, it’s figuring out what to do with it"-Mike Loukides </b>
+#### 🔭 I’m currently looking for new opportunities .
 
-📫 Reach me here:
+```python
+class Kishanpython:
 
+    def __init__(self):
+        self.username = 'kishanpython'
+        self.name = 'Kishan Yadav',
+        self.kaggle = '@kishanyadav'
+        self.twitter = '@kishan_py'
+        self.code = {
+    
+            'datascience': ['ML','DL','NLP','Computer Vision'],
+            'backend' : ['Python', 'Flask', 'Django'],
+            'database': ['MySQL', 'SQLite3', 'Mongo DB'],
+            'devops': ['Docker', 'AWS'],
+            'tools': ['GIT', 'GitHub','Jupyter notebook','Colab'],
+            'mllib': ['Pandas','Sklearn','NLTK','Keras','Tensorflow'],
+            'misc': ['Spark','Hadoop']
+        }
+        
+    def __str__(self):
+        return self.name
+
+
+if __name__ == '__main__':
+    me = Kishanpython()
+```    
+    
+
+## 📫 Get in touch
 [![Linkedin: kishanyadav](https://img.shields.io/badge/-kishanyadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishanyadav/)](https://www.linkedin.com/in/kishanyadav/)
 
-**Languages and Tools:**
+or on [mail](mailto:kishanyadav3223@gmail.com) .
 
-<code><img height="20" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"></code>
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kishanpython&show_icons=true)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kishanpython/kishanpython)
 
 
 
