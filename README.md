@@ -33,15 +33,16 @@ if __name__ == '__main__':
 ## 📫 Get in touch
 [![Linkedin: kishanyadav](https://img.shields.io/badge/-kishanyadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishanyadav/)](https://www.linkedin.com/in/kishanyadav/)
 
-or <a href = "(mailto:kishanyadav3223@gmail.com)"</a>
+or <a href = "(mailto:kishanyadav3223@gmail.com)"><img align="left" alt="Kishan Yadav | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Gmail.svg" style="max-width:100%;"></a>
 
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kishanpython&show_icons=true,title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kishanpython&show_icons=true,title_color=fff;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kishanpython/kishanpython)
 
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/96cd00a5cb752cf8fa1db660da055d35d2a9d7d7/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f6872697368696b6573682d636f6465722f636f756e742e737667"><img src="https://camo.githubusercontent.com/96cd00a5cb752cf8fa1db660da055d35d2a9d7d7/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f6872697368696b6573682d636f6465722f636f756e742e737667" alt="VisitorCount" data-canonical-src="https://profile-counter.glitch.me/kishanpython/count.svg" style="max-width:100%;"></a>
 
 
 <!--
