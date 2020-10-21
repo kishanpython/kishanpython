@@ -3,7 +3,7 @@ A data science enthusiast who loves to explore new technologies and leverage it 
 
 <b>"The problem isn’t finding data, it’s figuring out what to do with it"-Mike Loukides </b>
 
-📫 How to reach me:
+📫 Reach me here:
 
 [![Linkedin: kishanyadav](https://img.shields.io/badge/-kishanyadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishanyadav/)](https://www.linkedin.com/in/kishanyadav/)
 
