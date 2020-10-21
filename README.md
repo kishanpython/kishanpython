@@ -33,12 +33,12 @@ if __name__ == '__main__':
 ## 📫 Get in touch
 [![Linkedin: kishanyadav](https://img.shields.io/badge/-kishanyadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishanyadav/)](https://www.linkedin.com/in/kishanyadav/)
 
-or on [mail](mailto:kishanyadav3223@gmail.com) .
+or <a href = "(mailto:kishanyadav3223@gmail.com)"</a>
 
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kishanpython&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kishanpython&show_icons=true,title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kishanpython/kishanpython)
 
