@@ -33,7 +33,7 @@ if __name__ == '__main__':
 ## 📫 Get in touch
 [![Linkedin: kishanyadav](https://img.shields.io/badge/-kishanyadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishanyadav/)](https://www.linkedin.com/in/kishanyadav/)
 
-<a href = "(mailto:kishanyadav3223@gmail.com)"><img align="left" alt="Kishan Yadav | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Gmail.svg" style="max-width:100%;"></a>
+<a href = "kishanyadav3223@gmail.com"><img align="left" alt="Kishan Yadav | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Gmail.svg" style="max-width:100%;"></a>
 
 
 
