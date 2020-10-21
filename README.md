@@ -42,7 +42,7 @@ or <a href = "(mailto:kishanyadav3223@gmail.com)"><img align="left" alt="Kishan 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kishanpython/kishanpython)
 
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/96cd00a5cb752cf8fa1db660da055d35d2a9d7d7/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f6872697368696b6573682d636f6465722f636f756e742e737667"><img src="https://camo.githubusercontent.com/96cd00a5cb752cf8fa1db660da055d35d2a9d7d7/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f6872697368696b6573682d636f6465722f636f756e742e737667" alt="VisitorCount" data-canonical-src="https://profile-counter.glitch.me/kishanpython/count.svg" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/"><img src="https://camo.githubusercontent.com/" alt="VisitorCount" data-canonical-src="https://profile-counter.glitch.me/kishanpython/count.svg" style="max-width:100%;"></a>
 
 
 <!--
