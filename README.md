@@ -8,7 +8,7 @@ class kishanpython:
 
     def __init__(self):
         self.username = 'kishanpython'
-        self.name = 'Kishan Yadav',
+        self.name = 'Kishan Yadav'
         self.kaggle = '@kishanyadav'
         self.twitter = '@kishan_py'
         self.code = {
