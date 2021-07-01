@@ -2,7 +2,7 @@
 I am Data Science and Machine-Learning enthusiast who loves to explore new technologies and leverage it to solve real-life problems.
 
 #### 🔭 I’m currently looking for new opportunities .
-
+<!--
 ```python
 class kishanpython:
 
@@ -27,8 +27,8 @@ class kishanpython:
 
 if __name__ == '__main__':
     me = kishanpython()
-```    
-    
+```
+-->    
 
 ## 📫 Get in touch
 [![Linkedin: kishanyadav](https://img.shields.io/badge/-kishanyadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishanyadav/)](https://www.linkedin.com/in/kishanyadav/)
