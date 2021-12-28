@@ -1,44 +1,29 @@
-### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Kishan Yadav 👨‍💻
-I am Data Science and Data Engineering enthusiast who loves to explore new technologies and leverage them to solve real-life problems.
 
-<!-- #### 🔭 I’m currently looking for new opportunities . -->
-<!--
-```python
-class kishanpython:
-
-    def __init__(self):
-        self.username = 'kishanpython'
-        self.name = 'Kishan Yadav'
-        self.kaggle = '@kishanyadav'
-        self.twitter = '@kishan_py'
-        self.code = {
-            'datascience': ['ML','DL','NLP','Computer Vision'],
-            'backend' : ['Python', 'Flask', 'Django'],
-            'database': ['MySQL', 'SQLite3', 'Mongo DB'],
-            'devops': ['Docker', 'AWS'],
-            'tools': ['GIT', 'GitHub','Jupyter notebook','Colab'],
-            'mllib': ['Pandas','Sklearn','NLTK','Keras','Tensorflow'],
-            'misc': ['Spark','Hadoop']
-        }
-        
-    def __str__(self):
-        return self.name
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Kishan Yadav
 
 
-if __name__ == '__main__':
-    me = kishanpython()
-```
--->    
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter] 
+[<img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img height="30" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />][hashnode]
 
-## 📫 Get in touch
-[![Linkedin: kishanyadav](https://img.shields.io/badge/-kishanyadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishanyadav/)](https://www.linkedin.com/in/kishanyadav/)
+## I'm a Data Engineer and Blogger
+
+- I love to learn new technologies and leverage them to solve real-world problems.
+- I create educational contents about Python, Machine Learning, NLP, and DevOps.
+
+## My GitHub Stats 💻
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishanpython&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Kishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishanpython&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[twitter]: https://twitter.com/kishan_py
+[hashnode]: https://kishanyadav.hashnode.dev/
+[linkedin]: https://www.linkedin.com/in/kishanyadav/
 
 
 
-
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kishanpython&show_icons=true,title_color=fff;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kishanpython&show_icons=true,title_color=fff;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515) -->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kishanpython/kishanpython)
 
