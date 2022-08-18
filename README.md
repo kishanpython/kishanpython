@@ -6,10 +6,10 @@
 [<img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img height="30" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />][hashnode]
 
-## I'm a Data Engineer and Blogger
+## I'm a Data Engineer
 
 - I love to learn new technologies and leverage them to solve real-world problems.
-- I create educational contents about Python, Machine Learning, NLP, and DevOps.
+- I create contents around Machine Learning and Data Engineering.
 
 ## My GitHub Stats 💻
 
